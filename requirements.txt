@@ -1,0 +1,5 @@
+deltalake==1.6.6
+pandas==3.1.1
+pyarrow==26.0.1
+faker==40.54.0
+duckdb==2.0.0
